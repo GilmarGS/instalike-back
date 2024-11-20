@@ -1,0 +1,8 @@
+
+
+##Mongo
+user: gilmargs
+password: vkssESF112oSFa66
+
+String de conexão: 
+mongodb+srv://gilmarggs:vkssESF112oSFa66@cluster0.anmzp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
